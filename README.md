@@ -233,8 +233,6 @@ We would like to visualize various aspects of our pizza sales data to gain insig
 ```
 # TOTAL_REVENUE
 ![Total Revenue](Document/Total%20Revenue.png)
-# Average_ORDER_VALUE :
-![Average_order_value](Document/Avg%20Order%20Value.png)
 # Total Pizza Sold: 
 ![Total Pizza Sold](Document/Total%20Pizza%20Sold.png)
 # TOTAL_ORDERS
@@ -250,7 +248,7 @@ We would like to visualize various aspects of our pizza sales data to gain insig
 
 - What does the dashboard look like?
 
-![Excel Dashboard](Document/Pizza%20Dashboard.png)
+![Excel Dashboard](Document/Pizza%20Dashboard.jpg)
  
 
 
